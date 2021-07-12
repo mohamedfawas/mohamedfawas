@@ -10,4 +10,6 @@
 - 🔗 Connect with me on: https://www.linkedin.com/in/mohamed-fawas-337601151/
 - 💻 Also visit my kaggle profile: https://www.kaggle.com/mohamedfawas
 
-[![Fawas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazexplorer182)](https://github.com/fazexplorer182/github-readme-stats)
+
+
+![Fawas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazexplorer182&show_icons=true&theme=radical)
