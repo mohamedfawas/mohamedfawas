@@ -13,3 +13,5 @@
 
 
 ![Fawas's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazexplorer182&show_icons=true&theme=radical)
+
+![Fawas's Github visitor counts](https://komarev.com/ghpvc/?username=fazexplorer182&color=green)
