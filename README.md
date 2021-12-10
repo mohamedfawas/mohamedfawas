@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mohamedfawas/mohamedfawas/blob/main/gitcover.png" alt="banner" href=""></a>
+  <a href="https://github.com/mohamedfawas/mohamedfawas/blob/main/gitcover.png" alt="banner"  href=""></a>
   <a href="https://www.linkedin.com/in/mohamed-fawas-337601151/"><img src="https://img.shields.io/badge/LinkedIn-mohamedfawas-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/mohamed-fawas-337601151/"></a>
   <a href="https://twitter.com/MOHAMEDFAWAS182"><img src="https://img.shields.io/twitter/follow/MOHAMEDFAWAS182?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/MOHAMEDFAWAS182"></a>
   <a href="https://www.github.com/mohamedfawas/"><img src="https://img.shields.io/badge/GitHub-mohamedfawas-lightgrey?style=flat-square&logo=github" alt="GitHub" href="https://www.github.com/mohamedfawas/"></a>
