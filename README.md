@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fawas</h1>
 <h3 align="center">A passionate data science student from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0566e9e876b72de261ac0af697319bfeff72682acde05daac0d5760b548cfc9d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36382f66332f66662f36386633666638646463313639396636323334616265653465316435386464392e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfawas&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfawas" /> </p>
 
