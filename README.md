@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fawas</h1>
-<h3 align="center">A passionate data science student from India</h3>
+<h3 align="center">A passionate data engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0566e9e876b72de261ac0af697319bfeff72682acde05daac0d5760b548cfc9d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36382f66332f66662f36386633666638646463313639396636323334616265653465316435386464392e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfawas&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfawas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohamedfawas182" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedfawas182?logo=twitter&style=for-the-badge" alt="mohamedfawas182" /></a> </p>
 
-- 🔭 I’m currently working on **computer vision projects**
+- 🔭 I’m currently working on **data  engineeering related open source projects**
 
-- 🌱 I’m currently learning **open cv, Pytorch**
+- 🌱 I’m currently learning **Apache spark, Airflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedfawas](https://github.com/mohamedfawas)
 
-- 📝 I regularly write articles on [mohamedfawas.in](mohamedfawas.in)
+- 📝 I regularly write articles on [mohamedfawas.github.io](mohamedfawas.in)
 
 - 📫 How to reach me **fawastmh@gmail.com | mohamed.da20@iiitmk.ac.in**
 
