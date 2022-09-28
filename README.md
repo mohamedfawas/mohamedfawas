@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedfawas](https://github.com/mohamedfawas)
 
-- 📝 I regularly write articles on [mohamedfawas.github.io](mohamedfawas.in)
+- 📝 I regularly write articles on [medium](https://medium.com/@mohamedfawas)
 
 - 📫 How to reach me **fawastmh@gmail.com | mohamed.da20@iiitmk.ac.in**
 
