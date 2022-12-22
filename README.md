@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [https://mohamedfawas.hashnode.dev/](mohamedfawas.hashnode.dev)
+- 📝 I regularly write articles on [Fawas's hashnode blog](https://mohamedfawas.hashnode.dev/)
 
 - 📫 How to reach me **fawastmh@gmail.com**
 
