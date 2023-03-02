@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fawas</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m learning Docker, Kubernetes and cloud native technologies and I am looking forward to working on more **open source projects**
 
 - 📝 I regularly write articles on [Fawas's hashnode blog](https://mohamedfawas.hashnode.dev/)
 
