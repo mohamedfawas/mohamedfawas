@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfawas&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfawas" /> </p>
 
-- 🌱 I’m currently learning **Goland, C++**
+- 🌱 I’m currently learning **Golang, C++, backend development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@mohamedfawas](https://hashnode.com/@mohamedfawas)
 
