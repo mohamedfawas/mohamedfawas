@@ -1,4 +1,4 @@
-### <div align="center">I'm Mohamed Fawas, a Go lang developer 👨‍💻 </div>  
+### <div align="center">I'm Mohamed Fawas, a Golang developer 👨‍💻 </div>  
 
   
 
