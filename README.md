@@ -1,5 +1,5 @@
 ### <div align="center">I'm Mohamed Fawas, a Go lang developer 👨‍💻 </div>  
-<comment> taken from https://profilinator.rishav.dev/ </comment>
+
   
 
 - 🔭 I’m currently working on [Golang projects](https://github.com/mohamedfawas)  
@@ -80,6 +80,6 @@
 </div>  
 
 <br />
-
+<!--- taken from https://profilinator.rishav.dev/ -->
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
