@@ -1,25 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fawas</h1>
-<h3 align="center">A passionate Golang developer from India</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfawas&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfawas" /> </p>
+###
 
-- 🌱 I’m currently learning **Golang, backend development**
+<p align="left">My name is Mohamed Fawas and I'm a Go lang developer, from India</p>
 
-- 📝 I regularly write articles on [https://hashnode.com/@mohamedfawas](https://hashnode.com/@mohamedfawas)
+###
 
-- 📫 How to reach me **fawastmh@gmail.com**
+<h2 align="left">About me</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohamedfawas182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedfawas182" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/mohamed-fawas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mohamed-fawas/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mohamedfawas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mohamedfawas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamedfawas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedfawas/" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
+<p align="left">📚 I'm currently learning Go lang<br>🎯 Goals: Become an active open source contributor in cloud native space</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedfawas&show_icons=true&locale=en&layout=compact" alt="mohamedfawas" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfawas&" alt="mohamedfawas" /></p>
+<div align="center">
+  <a href="https://twitter.com/mohamedfawas182/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-fawas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@MOHAMED_FAWAS" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://mohamedfawas.github.io/contact/fawastmh@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mohamedfawas/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mohamedfawas/mohamedfawas/output/snake.svg" alt="Snake animation" />
+
+###
