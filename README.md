@@ -82,3 +82,5 @@
 <br />
 <!--- taken from https://profilinator.rishav.dev/ -->
 
+## Leetcode Stats 
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohamedfawas?theme=dark&font=Roboto%20Serif&ext=heatmap)
