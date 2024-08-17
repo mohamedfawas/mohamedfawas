@@ -1,11 +1,11 @@
-### <div align="center">I'm Mohamed Fawas, a Golang developer exploring web3 projects👨‍💻 </div>  
+### <div align="center">I'm Mohamed Fawas, a Golang developer 👨‍💻 </div>  
 
   
 
-- 🔭 I’m currently working on [web 3 projects which involves golang](https://github.com/mohamedfawas)  
+- 🔭 I’m currently working on [golang projects](https://github.com/mohamedfawas)  
   
 
-- 🌱 I’m currently learning golang backend development, go-ethereum, and web3.    
+- 🌱 I’m currently learning golang backend development.    
   
 
 <br/>  
