@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [golang projects](https://github.com/mohamedfawas)  
   
 
-- 🌱 I’m currently learning golang backend development.    
+- 🌱 I’m currently learning web development using golang.    
   
 
 <br/>  
