@@ -2,10 +2,10 @@
 
   
 
-- 🔭 I’m currently working on [golang projects](https://github.com/mohamedfawas)  
+- 🔭 I’m currently working on [golang projects ](https://github.com/mohamedfawas)  
   
 
-- 🌱 I’m currently learning web development using golang.    
+- 🌱 I’m currently learning web development using Golang and exploring the cosmos ecosystem in web3.    
   
 
 <br/>  
