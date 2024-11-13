@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [golang projects ](https://mohamedfawas.github.io/projects/)  
   
 
-- 🌱 I’m currently learning web development using Golang and exploring the cosmos ecosystem in web3.    
+- 🌱 I’m currently learning web development using Golang and exploring cloud computing.    
   
 
 <br/>  
