@@ -1,7 +1,6 @@
 ### <div align="center">I'm Mohamed Fawas, a Golang developer</div>
 
 - Continuously learning and experimenting with cloud-native technologies like Kubernetes, MCP servers, and distributed systems.  
-- Focused on growing as a Go developer within the cloud-native ecosystem.  
 - Interested in contributing to open-source tools and projects in the cloud-native ecosystem.  
   
 
