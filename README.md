@@ -1,7 +1,10 @@
 ### <div align="center">I'm Mohamed Fawas — a curious learner</div>
 
-- Continuously learning and experimenting with cloud-native technologies like **Kubernetes, MCP servers, and distributed systems**.  
-- Interested in contributing to **open-source tools and projects** in the **cloud-native ecosystem**.  
+- Curious about **distributed systems** and how things break at scale
+- Currently exploring **backend & infrastructure challenges** (mostly in Go)
+- Lately poking around **Solana infra** and asking “why does this fail?”
+
+Learning by building, breaking, and fixing things.
   
 
 <br/>  
