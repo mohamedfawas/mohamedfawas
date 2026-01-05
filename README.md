@@ -2,7 +2,6 @@
 
 - Curious about **distributed systems** and how things break at scale
 - Currently exploring **backend & infrastructure challenges** (mostly in Go)
-- Lately poking around **Solana infra** and asking “why does this fail?”
 
 Learning by building, breaking, and fixing things.
   
